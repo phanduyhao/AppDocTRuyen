@@ -1,0 +1,142 @@
+[{
+  "_id": {
+    "$oid": "64a5317a64d799c55d221485"
+  },
+  "bookname": "Doraemon (bút chì y như đúc)",
+  "description": "Truyện tranh Doraemon mới nhất 2023",
+  "author": "QKhanh",
+  "publishyear": 2023,
+  "imgbook": "https://firebasestorage.googleapis.com/v0/b/labfirebaseph27525.appspot.com/o/images%2Fbiadoraemon.jpg?alt=media&token=b8514149-e9e0-4014-8b1b-dceafa1f0c83",
+  "contentbook": [
+    "https://firebasestorage.googleapis.com/v0/b/labfirebaseph27525.appspot.com/o/images%2Ftr1_1.jpg?alt=media&token=bca32e42-df44-4a2b-ab14-0611be324812",
+    "https://firebasestorage.googleapis.com/v0/b/labfirebaseph27525.appspot.com/o/images%2Ftr1_2.jpg?alt=media&token=63ac94f6-0325-4af7-9d13-2d92087821d0",
+    "https://firebasestorage.googleapis.com/v0/b/labfirebaseph27525.appspot.com/o/images%2Ftr1_3.jpg?alt=media&token=1a745641-92a1-4ff2-9b9a-9e5e892b017c",
+    "https://firebasestorage.googleapis.com/v0/b/labfirebaseph27525.appspot.com/o/images%2Ftr1_4.jpg?alt=media&token=ae0e424a-7532-4837-86e5-1c43bb5537fd",
+    "https://firebasestorage.googleapis.com/v0/b/labfirebaseph27525.appspot.com/o/images%2Ftr1_5.jpg?alt=media&token=a3228ab0-112c-4451-9a14-9f9b96dab987"
+  ]
+},{
+  "_id": {
+    "$oid": "64a5384364d799c55d221487"
+  },
+  "bookname": "Doraemon (Cây đèn thần)",
+  "description": "Truyện tranh Doraemon mới nhất 2023",
+  "author": "QKhanh",
+  "publishyear": 2023,
+  "imgbook": "https://firebasestorage.googleapis.com/v0/b/labfirebaseph27525.appspot.com/o/images%2Fbiadoraemon.jpg?alt=media&token=b8514149-e9e0-4014-8b1b-dceafa1f0c83",
+  "contentbook": [
+    "https://firebasestorage.googleapis.com/v0/b/labfirebaseph27525.appspot.com/o/images%2Ftr2_1.jpg?alt=media&token=17f77232-b583-4ecc-8423-5aca55aa4215",
+    "https://firebasestorage.googleapis.com/v0/b/labfirebaseph27525.appspot.com/o/images%2Ftr2_2.jpg?alt=media&token=4c5d72fe-19e2-4e36-8d53-0f9a2e857e4f",
+    "https://firebasestorage.googleapis.com/v0/b/labfirebaseph27525.appspot.com/o/images%2Ftr2_3.jpg?alt=media&token=0a22223b-4bf8-4107-9c97-6c5cbd738557",
+    "https://firebasestorage.googleapis.com/v0/b/labfirebaseph27525.appspot.com/o/images%2Ftr2_4.jpg?alt=media&token=63fb5e3c-755d-41a2-83e3-14c57a4e5025",
+    "https://firebasestorage.googleapis.com/v0/b/labfirebaseph27525.appspot.com/o/images%2Ftr2_5.jpg?alt=media&token=31d9183b-5fd6-446a-a5d7-055e17f3a4d4",
+    "https://firebasestorage.googleapis.com/v0/b/labfirebaseph27525.appspot.com/o/images%2Ftr2_6.jpg?alt=media&token=fdf2d11f-9daf-47f5-8d17-3b29ec659528",
+    "https://firebasestorage.googleapis.com/v0/b/labfirebaseph27525.appspot.com/o/images%2Ftr2_7.jpg?alt=media&token=79e7e58d-be07-4f92-9716-0e447c14022c",
+    "https://firebasestorage.googleapis.com/v0/b/labfirebaseph27525.appspot.com/o/images%2Ftr2_8.jpg?alt=media&token=c22845f7-e98d-460d-8097-b5caa8890c2b",
+    "https://firebasestorage.googleapis.com/v0/b/labfirebaseph27525.appspot.com/o/images%2Ftr2_9.jpg?alt=media&token=9106706a-bbaa-459b-8d10-d6d284aa2deb",
+    "https://firebasestorage.googleapis.com/v0/b/labfirebaseph27525.appspot.com/o/images%2Ftr2_10.jpg?alt=media&token=bfc407b5-1aaa-403f-84c0-804e3a70b4c3",
+    "https://firebasestorage.googleapis.com/v0/b/labfirebaseph27525.appspot.com/o/images%2Ftr2_11.jpg?alt=media&token=13ff3cf3-1498-4a6e-9640-cec50ab716cc"
+  ]
+},{
+  "_id": {
+    "$oid": "64aaf2c5f1527e21ce5ab87c"
+  },
+  "bookname": "Doraemon màu",
+  "description": "Truyện tranh doraemon màu mới nhất 2023",
+  "author": "Fujiko F. Fujio",
+  "publishyear": 2023,
+  "imgbook": "https://firebasestorage.googleapis.com/v0/b/labfirebaseph27525.appspot.com/o/images%2Fbiatruyen2.jpg?alt=media&token=208670d3-0aba-4dab-b90a-771829dc6999",
+  "contentbook": [
+    "https://firebasestorage.googleapis.com/v0/b/labfirebaseph27525.appspot.com/o/images%2Ftr3_1.jpg?alt=media&token=6317d3ab-039b-4313-ab03-46367f9ea318",
+    "https://firebasestorage.googleapis.com/v0/b/labfirebaseph27525.appspot.com/o/images%2Ftr3_2.jpg?alt=media&token=1ab306b8-4cc7-4386-bad9-5ddd7e71f872",
+    "https://firebasestorage.googleapis.com/v0/b/labfirebaseph27525.appspot.com/o/images%2Ftr3_3.jpg?alt=media&token=75185848-c1d2-4922-b2d0-59579384ac0d",
+    "https://firebasestorage.googleapis.com/v0/b/labfirebaseph27525.appspot.com/o/images%2Ftr3_4.jpg?alt=media&token=d8b229c8-0b61-46b5-9c22-fed58ab92508",
+    "https://firebasestorage.googleapis.com/v0/b/labfirebaseph27525.appspot.com/o/images%2Ftr3_5.jpg?alt=media&token=a22ef253-1ebc-4beb-84f0-2632cf663570",
+    "https://firebasestorage.googleapis.com/v0/b/labfirebaseph27525.appspot.com/o/images%2Ftr3_6.jpg?alt=media&token=04230d27-62a9-44c4-91ef-ac99bba73c0c",
+    "https://firebasestorage.googleapis.com/v0/b/labfirebaseph27525.appspot.com/o/images%2Ftr3_7.jpg?alt=media&token=0f03e933-df12-4bab-8c9a-bc2309d62c44",
+    "https://firebasestorage.googleapis.com/v0/b/labfirebaseph27525.appspot.com/o/images%2Ftr3_8.jpg?alt=media&token=7ef7040b-e25b-4a51-ba13-f7563d80b454"
+  ]
+},{
+  "_id": {
+    "$oid": "64aaf63af1527e21ce5ab87d"
+  },
+  "bookname": "Doraemon màu",
+  "description": "Truyện tranh doraemon màu mới nhất 2022",
+  "author": "Fujiko F. Fujio",
+  "publishyear": 2022,
+  "imgbook": "https://firebasestorage.googleapis.com/v0/b/labfirebaseph27525.appspot.com/o/images%2Fbiatruyen3.jpg?alt=media&token=38c7c35b-6abe-48c7-b183-0806519b6596",
+  "contentbook": [
+    "https://firebasestorage.googleapis.com/v0/b/labfirebaseph27525.appspot.com/o/images%2Ftr4_1.jpg?alt=media&token=2f39b386-38d4-4123-abc4-51e3eed643c2",
+    "https://firebasestorage.googleapis.com/v0/b/labfirebaseph27525.appspot.com/o/images%2Ftr4_2.jpg?alt=media&token=2e0f3fc7-e239-4f2b-83f5-8f40814c3504",
+    "https://firebasestorage.googleapis.com/v0/b/labfirebaseph27525.appspot.com/o/images%2Ftr4_3.jpg?alt=media&token=8720efbb-ba2b-4584-a1a5-e59d1b48a6a9",
+    "https://firebasestorage.googleapis.com/v0/b/labfirebaseph27525.appspot.com/o/images%2Ftr4_4.jpg?alt=media&token=f886f18e-8265-4a29-8b73-4f0d78345cd3",
+    "https://firebasestorage.googleapis.com/v0/b/labfirebaseph27525.appspot.com/o/images%2Ftr4_5.jpg?alt=media&token=c6f20150-5038-49eb-aa50-b15efe60287f",
+    "https://firebasestorage.googleapis.com/v0/b/labfirebaseph27525.appspot.com/o/images%2Ftr4_6.jpg?alt=media&token=97ccee6a-1369-4273-a9bc-cb6fbb8ca1b5",
+    "https://firebasestorage.googleapis.com/v0/b/labfirebaseph27525.appspot.com/o/images%2Ftr4_7.jpg?alt=media&token=2e6248e6-dce9-4db7-bdd3-2dfdd6fd309b",
+    "https://firebasestorage.googleapis.com/v0/b/labfirebaseph27525.appspot.com/o/images%2Ftr4_8.jpg?alt=media&token=12dd6a5d-bb89-4ade-9d8c-c9d17bb65a51"
+  ]
+},{
+  "_id": {
+    "$oid": "64aaf956f1527e21ce5ab87e"
+  },
+  "bookname": "Doraemon (bột đất sét)",
+  "description": "Truyện tranh doraemon màu mới nhất 2023",
+  "author": "Fujiko F. Fujio",
+  "publishyear": 2023,
+  "imgbook": "https://firebasestorage.googleapis.com/v0/b/labfirebaseph27525.appspot.com/o/images%2Fbiatruyen5.jpg?alt=media&token=3056c8f4-93d5-49be-8782-d790cd633ca0",
+  "contentbook": [
+    "https://firebasestorage.googleapis.com/v0/b/labfirebaseph27525.appspot.com/o/images%2Ftr5_1.jpg?alt=media&token=aed679df-0c10-48c4-b9aa-f1a51ffa99a8",
+    "https://firebasestorage.googleapis.com/v0/b/labfirebaseph27525.appspot.com/o/images%2Ftr5_2.jpg?alt=media&token=920abca2-553d-47e2-aef3-33e11f7b7625",
+    "https://firebasestorage.googleapis.com/v0/b/labfirebaseph27525.appspot.com/o/images%2Ftr5_3.jpg?alt=media&token=d0b98fee-ea5e-4318-b303-f86c33529ff7",
+    "https://firebasestorage.googleapis.com/v0/b/labfirebaseph27525.appspot.com/o/images%2Ftr5_4.jpg?alt=media&token=f397a0ee-3003-463b-863b-bc99fafca95a",
+    "https://firebasestorage.googleapis.com/v0/b/labfirebaseph27525.appspot.com/o/images%2Ftr5_5.jpg?alt=media&token=4c7adcae-9e02-4235-8dec-5bd20a27687a",
+    "https://firebasestorage.googleapis.com/v0/b/labfirebaseph27525.appspot.com/o/images%2Ftr5_6.jpg?alt=media&token=1a4a30ce-9f12-4dc0-90d7-24e31ee91721",
+    "https://firebasestorage.googleapis.com/v0/b/labfirebaseph27525.appspot.com/o/images%2Ftr5_7.jpg?alt=media&token=da82af48-be9b-497b-92b1-748225e094ed",
+    "https://firebasestorage.googleapis.com/v0/b/labfirebaseph27525.appspot.com/o/images%2Ftr5_8.jpg?alt=media&token=1fd78a46-4e7e-48c3-8f8c-a366919f1c41"
+  ]
+},{
+  "_id": {
+    "$oid": "64aafbfbf1527e21ce5ab87f"
+  },
+  "bookname": "Doraemon (Chiếc gương nam châm)",
+  "description": "Truyện tranh Doraemon mới nhất 2023",
+  "author": "JQKA",
+  "publishyear": 2023,
+  "imgbook": "https://firebasestorage.googleapis.com/v0/b/labfirebaseph27525.appspot.com/o/images%2Fbiatruyen6.jpg?alt=media&token=c7338768-bf85-468b-8dcb-113e0f60b0a7",
+  "contentbook": [
+    "https://firebasestorage.googleapis.com/v0/b/labfirebaseph27525.appspot.com/o/images%2Ftr6_1.jpg?alt=media&token=1a8846b7-9c37-4da9-8696-9e62b4f2ea49",
+    "https://firebasestorage.googleapis.com/v0/b/labfirebaseph27525.appspot.com/o/images%2Ftr6_2.jpg?alt=media&token=2f06a39d-a0c1-44e9-b370-97dabf7e6ada",
+    "https://firebasestorage.googleapis.com/v0/b/labfirebaseph27525.appspot.com/o/images%2Ftr6_3.jpg?alt=media&token=de9c2fb4-47bd-4167-a123-f4f79a4d2cdf",
+    "https://firebasestorage.googleapis.com/v0/b/labfirebaseph27525.appspot.com/o/images%2Ftr6_4.jpg?alt=media&token=e2799d1e-da33-4701-9c15-bbd5c652453a",
+    "https://firebasestorage.googleapis.com/v0/b/labfirebaseph27525.appspot.com/o/images%2Ftr6_5.jpg?alt=media&token=f9619d38-6ef5-4677-a0bb-055b7b2deb84",
+    "https://firebasestorage.googleapis.com/v0/b/labfirebaseph27525.appspot.com/o/images%2Ftr6_6.jpg?alt=media&token=10e2b711-2b09-4c05-b0dc-72f0013ff6f5"
+  ]
+},{
+  "_id": {
+    "$oid": "64aafd83f1527e21ce5ab880"
+  },
+  "bookname": "Doraemon (Sơn trong suốt)",
+  "description": "Truyện tranh Doraemon mới nhất 2023",
+  "author": "JQKA",
+  "publishyear": 2023,
+  "imgbook": "https://firebasestorage.googleapis.com/v0/b/labfirebaseph27525.appspot.com/o/images%2Fbiadoraemon.jpg?alt=media&token=b8514149-e9e0-4014-8b1b-dceafa1f0c83",
+  "contentbook": [
+    "https://firebasestorage.googleapis.com/v0/b/labfirebaseph27525.appspot.com/o/images%2Ftr7_1.jpg?alt=media&token=3ac12b2f-0dfc-49ae-9315-fcecc45004b2",
+    "https://firebasestorage.googleapis.com/v0/b/labfirebaseph27525.appspot.com/o/images%2Ftr7_2.jpg?alt=media&token=36c95804-fed7-4ab7-b8a7-c41b5f81d985",
+    "https://firebasestorage.googleapis.com/v0/b/labfirebaseph27525.appspot.com/o/images%2Ftr7_3.jpg?alt=media&token=acf3735c-7a5c-449c-8893-98caacbe2677"
+  ]
+},{
+  "_id": {
+    "$oid": "64ccd8bec4d7e0240f78f706"
+  },
+  "bookname": "test",
+  "description": "sach thu nghiem",
+  "author": "tester",
+  "publishyear": 2022,
+  "imgbook": "qqqqqqq",
+  "contentbook": [
+    "qqqqq",
+    "sssss",
+    "dddd"
+  ],
+  "__v": 0
+}]

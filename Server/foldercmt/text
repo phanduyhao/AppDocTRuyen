@@ -1,0 +1,21 @@
+//user
+// exports.deleteUser = async (req, res, next) => {
+//     let { _id } = req.query
+//     await myModel.userModel.deleteOne({ _id })
+//     res.send("Xoa thanh cong")
+// }
+//router.delete('/deleteuser', userCtrl.deleteUser)
+
+
+//book
+// exports.deleteBook = async (req, res, next) => {
+//     try {
+//         let { _id } = req.query
+//         let deleteBook = myModel.bookModel.findOne({_id})
+//         await myModel.bookModel.deleteOne({ _id })
+//         res.send('Xoa thanh cong'+deleteBook.bookname)
+//     } catch (error) {
+//         res.status(500).render('error', { message: error.message })
+//     }
+// }
+// router.delete('/deletebook', booksCtrl.deleteBook)
